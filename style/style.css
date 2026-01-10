@@ -1,0 +1,15 @@
+body {
+	font-family: Arial;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+img {
+	border-style: solid;
+	display: grid;
+	text-align: right;
+}
+
+h1 {
+	font-family: Serif;
+}
